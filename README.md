@@ -53,6 +53,21 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
     - makefile
 
 
+```
+project-root/
+|-----include/
+|       |--- rogue.h
+|-----src/
+|       |---main.c
+|       |---draw.c
+|       |---engine.c
+|       |---player.c
+|       |---map.c
+|       |---room.c
+|       |---fov.c
+|-----makefile
+```
+
 
 
 ## 🧰 Requirements
