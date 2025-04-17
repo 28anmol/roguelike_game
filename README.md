@@ -25,4 +25,17 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 
 ## 🎮 Controls
 
-`W`                   Move Up
+`W`      Move Up
+`A`      Move Left
+`S`      Move Down
+`D`      Move Right
+`Q`      Quit Game
+
+
+## 📁 Code Structure
+
+project-root/
+|--- include/
+|     |
+      ---rogue.h
+
