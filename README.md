@@ -34,6 +34,8 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 
 ## 📁 Code Structure
 
+<pre> project-root/ ├── include/ │ └── <b>rogue.h</b> # Header file with global declarations ├── src/ │ ├── <b>main.c</b> # Entry point, game setup and teardown │ ├── <b>engine.c</b> # Main game loop and ncurses setup │ ├── <b>draw.c</b> # Rendering functions │ ├── <b>player.c</b> # Player movement and input │ ├── <b>map.c</b> # Tile and map generation │ ├── <b>room.c</b> # Room creation and connection logic │ └── <b>fov.c</b> # Field of view and visibility logic ├── <b>makefile</b> # Build instructions </pre>
+
 ## Credits
 
 
