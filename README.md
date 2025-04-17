@@ -1,4 +1,4 @@
-# 🧙‍♂️ Terminal Roguelike Game in C
+# :mage: Terminal Roguelike Game in C
 
 A simple yet powerful **roguelike game** built from scratch in **C** using **ncurses**.  
 Explore procedurally generated dungeons, navigate through rooms, and move your character in a terminal-based game world.
