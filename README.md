@@ -38,9 +38,9 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 
 
 
-## 📁 Code Structure
+## 📁 Code Base Structure
 ```
-project-root/
+roguelike_game/
 |-----include/
 |       |--- rogue.h
 |-----src/
