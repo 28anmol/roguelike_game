@@ -16,7 +16,7 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
   - Navigate using `W A S D` keys.
   - Real-time updates with field of view (FOV).
 
-- 🔦 **Line of sight + Fog of War**
+- 🔦 **Line of sight + Fog of War + Field Of View**
   - Only nearby tiles are visible.
   - Previously seen tiles are dimmed (exploration-style).
 
