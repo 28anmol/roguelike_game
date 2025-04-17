@@ -63,10 +63,16 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 ## 🛠️ Build Instructions
 
 ## 📌 Key Concepts
+- Manual memory management using `calloc`
+- Procedural generation of dungeon rooms
+- Terminal UI with `ncurses` library
+- 2D arrays for tile based maps
+- Use of pointers
+- Visibility algorithms (field of view and line of sight)
 
 ## 📸 Screenshots
 
-## 💖 ACredits
+## 💖 Credits
 
 **Ignacio Oyarzabal**  
 Followed the following tutorial: [Visit Tutorial](https://dev.to/ignaoya/the-c-roguelike-tutorial-part-0-the-setup-1pfo)  
