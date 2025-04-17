@@ -25,11 +25,11 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 
 ## 🎮 Controls
 
-`W`  &nbsp;&nbsp;&nbsp;&nbsp;Move Up  
-`A`      Move Left  
-`S`      Move Down  
-`D`      Move Right  
-`Q`      Quit Game  
+`W`  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Up  
+`A`  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Left  
+`S`  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Down  
+`D`  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Right  
+`Q`  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quit Game  
 
 
 ## 📁 Code Structure
