@@ -25,7 +25,7 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 
 ## 🎮 Controls
 
-`W`      Move Up  
+`W`  &nbsp;&nbsp;&nbsp;&nbsp;Move Up  
 `A`      Move Left  
 `S`      Move Down  
 `D`      Move Right  
