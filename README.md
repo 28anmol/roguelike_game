@@ -62,6 +62,10 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 
 ## 🛠️ Build Instructions
 
+```
+git clone https://github.com/28anmol/roguelike_game.git
+```
+
 ## 📌 Key Concepts
 - Manual memory management using `calloc`
 - Procedural generation of dungeon rooms
