@@ -1,4 +1,4 @@
-# :mage: Terminal Roguelike Game in C
+# :mage: Terminal Roguelike Game in C :mage:
 
 
 A simple yet powerful **roguelike game** built from scratch in **C** using **ncurses**.  
