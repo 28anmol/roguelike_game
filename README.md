@@ -85,7 +85,7 @@ make
 ## 💖 Credits
 
 **Ignacio Oyarzabal**  
-Followed the following tutorial: [Visit Tutorial](https://dev.to/ignaoya/the-c-roguelike-tutorial-part-0-the-setup-1pfo)  
+Followed the tutorial: [Visit Tutorial](https://dev.to/ignaoya/the-c-roguelike-tutorial-part-0-the-setup-1pfo)  
 Please feel free to contribute, fork or use it as a learning project.
 
 
