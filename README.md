@@ -1,7 +1,10 @@
 # :mage: Terminal Roguelike Game in C
 
+
 A simple yet powerful **roguelike game** built from scratch in **C** using **ncurses**.  
 Explore procedurally generated dungeons, navigate through rooms, and move your character in a terminal-based game world.
+
+
 
 ## :rocket: Features
 
@@ -23,6 +26,7 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
  
 
 
+
 ## 🎮 Controls
 
 `W`  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Up  
@@ -30,6 +34,8 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 `S`  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Down  
 `D`  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move Right  
 `Q`  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quit Game  
+
+
 
 
 ## 📁 Code Structure
@@ -46,9 +52,23 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
         - fov.c
     - makefile
 
+
+
+
+## 🧰 Requirements
+
+- GCC (or any C compiler)
+- `ncurses` library
+
+## 🛠️ Build Instructions
+
+## 📌 Key Concepts
+
+## 📸 Screenshots
+
 ## 💖 Credits
 
 **Ignacio Oyarzabal**  
-[Visit Tutorial](https://dev.to/ignaoya/the-c-roguelike-tutorial-part-0-the-setup-1pfo)
+Followed the following tutorial: [Visit Tutorial](https://dev.to/ignaoya/the-c-roguelike-tutorial-part-0-the-setup-1pfo)
 
 
