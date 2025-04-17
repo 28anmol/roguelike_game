@@ -44,13 +44,13 @@ roguelike_game/
 |-----include/
 |       |--- rogue.h
 |-----src/
-|       |---main.c
-|       |---draw.c
-|       |---engine.c
-|       |---player.c
-|       |---map.c
-|       |---room.c
-|       |---fov.c
+|       |--- main.c
+|       |--- draw.c
+|       |--- engine.c
+|       |--- player.c
+|       |--- map.c
+|       |--- room.c
+|       |--- fov.c
 |-----makefile
 ```
 
