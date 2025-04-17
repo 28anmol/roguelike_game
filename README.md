@@ -46,6 +46,9 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
         - fov.c
     - makefile
 
-## Credits
+## 💖 Credits
+
+**Ignacio Oyarzabal**
+[Visit Tutorial](https://dev.to/ignaoya/the-c-roguelike-tutorial-part-0-the-setup-1pfo)
 
 
