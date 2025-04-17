@@ -81,6 +81,7 @@ make
 - Visibility algorithms (field of view and line of sight)
 
 ## 📸 Screenshots
+*To be added*
 
 ## 💖 Credits
 
