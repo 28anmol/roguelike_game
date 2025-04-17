@@ -25,4 +25,4 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 
 ## 🎮 Controls
 
-`W`      Move Up
+`W`                   Move Up
