@@ -34,17 +34,7 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 
 ## 📁 Code Structure
 project-root/  
-├── include/  
-│   └── rogue.h  
-├── src/  
-│   ├── main.c  
-│   ├── engine.c  
-│   ├── draw.c  
-│   ├── player.c  
-│   ├── map.c  
-│   ├── room.c  
-│   ├── fov.c  
-├── makefile  
+|------ include/  
 
 ## Credits
 
