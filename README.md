@@ -33,8 +33,8 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 
 
 ## 📁 Code Structure
-project-root/  
-|------ include/  
+- project-root/
+    - include/
 
 ## Credits
 
