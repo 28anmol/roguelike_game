@@ -20,3 +20,9 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 - 📺 **Ncurses-based terminal rendering**
   - Fast, minimal graphics in the terminal.
   - Works on any Linux/macOS terminal with `ncurses` support.
+ 
+
+
+## 🎮 Controls
+
+`W`      Move Up
