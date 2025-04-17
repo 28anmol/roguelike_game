@@ -81,7 +81,7 @@ make
 - Use of pointers
 - Visibility algorithms (field of view and line of sight)
 
-## 📸 Screenshots
+## 📸 Screenshots & GIFs
 *To be added*
 
 ## 💖 Credits
