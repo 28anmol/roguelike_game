@@ -62,8 +62,14 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 
 ## 🛠️ Build Instructions
 
-```
+```bash
 git clone https://github.com/28anmol/roguelike_game.git
+```
+```bash
+cd roguelike_game
+```
+```bash
+make
 ```
 
 ## 📌 Key Concepts
