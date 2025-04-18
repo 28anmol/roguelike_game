@@ -84,7 +84,7 @@ make
 ## 📸 Screenshots & GIFs
 *To be added*
 
-|<img src="https://github.com/28anmol/roguelike_game/blob/main/media/rogue_1.png" alt="drawing" width="500" height="250"/> |<img src="https://github.com/28anmol/roguelike_game/blob/main/media/rogue_2.png" alt="drawing" width="500" height="250"/>|
+<img src="https://github.com/28anmol/roguelike_game/blob/main/media/rogue_1.png" alt="drawing" width="500" height="250"/> <img src="https://github.com/28anmol/roguelike_game/blob/main/media/rogue_2.png" alt="drawing" width="500" height="250"/>
 
 ## 💖 Credits
 
