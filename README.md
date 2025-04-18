@@ -41,9 +41,9 @@ Explore procedurally generated dungeons, navigate through rooms, and move your c
 ## 📁 Code Base Structure
 ```
 roguelike_game/
-|-----include/
+|--- include/
 |       |--- rogue.h
-|-----src/
+|--- src/
 |       |--- main.c
 |       |--- draw.c
 |       |--- engine.c
@@ -51,7 +51,7 @@ roguelike_game/
 |       |--- map.c
 |       |--- room.c
 |       |--- fov.c
-|-----makefile
+|--- makefile
 ```
 
 
